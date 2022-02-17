@@ -5,7 +5,7 @@
 Signatories to the "[Church Ministers' response to the Consultation on Banning Conversion Therapy](https://web.archive.org/web/20220216103235/https://ministersconsultationresponse.com/signatories/)", parsed [from the PDF](https://web.archive.org/web/20220215102757/https://ministersconsultationresponse.com/wp-content/uploads/2022/01/Dear-Secretary-of-State-Letter-from-2546-signatories-to-the-consultation-on-banning-conversion-therapy.pdf) into JSON files.
 
 ## Why
-😄
+[Conversion therapy](https://www.stonewall.org.uk/everything-you-need-know-about-conversion-therapy) leaves [lasting, significant damage](https://www.stonewall.org.uk/about-us/news/seven-survivors-conversion-therapy-describe-its-lasting-damaging-impact) to those who experience it—I hope this data helps *someone* build/do/research something which helps. 
 
 ## Files
 ### signatories.json ([view](signatories.json))
