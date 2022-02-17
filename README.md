@@ -1,7 +1,7 @@
 # ministersconsultationresponse
 Signatories to the "[Church Ministers' response to the Consultation on Banning Conversion Therapy](https://web.archive.org/web/20220216103235/https://ministersconsultationresponse.com/signatories/)", parsed [from the PDF](https://web.archive.org/web/20220215102757/https://ministersconsultationresponse.com/wp-content/uploads/2022/01/Dear-Secretary-of-State-Letter-from-2546-signatories-to-the-consultation-on-banning-conversion-therapy.pdf).
 
-## signatories.json
+## signatories.json ([view](signatories.json))
 This JSON file contains all 2546 signatories (`name` and `org`) of the consultation in the following format:
 ```json
 {
@@ -12,7 +12,7 @@ This JSON file contains all 2546 signatories (`name` and `org`) of the consultat
 }
 ```
 
-## signatories_with_addresses.json
+## signatories_with_addresses.json ([view](signatories_with_addresses.json))
 This JSON file contains all 2546 signatories (`name`, `org` and `address`) of the consultation in the following format:
 ```json
 {
